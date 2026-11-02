@@ -4,6 +4,6 @@
 
 ![alt text](images_all/day_01_points.png)
 
-## Day 1: Points (Python)
+## Day 2: Lines (Python)
 
 ![alt text](images_all/day_02_lines.png)
