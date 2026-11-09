@@ -10,15 +10,15 @@
 
 ## Day 3: Polygons (Python)
 
-![alt text](images_al/day_03_polygons.png)
+![alt text](images_all/day_03_polygons.png)
 
 ## Day 4: Clusters (QGIS)
 
-![alt text](images_al/day_04_cluster.png)
+![alt text](images_all/day_04_cluster.png)
 
 ## Day 5: Sight (QGIS)
 
-![alt text](images_al/day_04_sights.png)
+![alt text](images_all/day_04_sights.png)
 
 
 
