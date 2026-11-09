@@ -18,7 +18,7 @@
 
 ## Day 5: Sight (QGIS)
 
-![alt text](images_all/day_04_sights.png)
+![alt text](images_all/day_05_sights.png)
 
 
 
