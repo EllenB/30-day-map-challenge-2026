@@ -20,6 +20,10 @@
 
 ![alt text](images_all/day_05_sights.png)
 
+## Day 6: Vintage (Python)
+
+![alt text](images_all/day_06_vintage.png)
+
 
 
 
