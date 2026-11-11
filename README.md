@@ -28,6 +28,10 @@
 
 ![alt text](images_all/day_07_10_min_map.png)
 
+## Day 8: Utopia (Python)
+
+![alt text](images_all/day_08_utopia.png)
+
 
 
 
