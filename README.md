@@ -24,6 +24,10 @@
 
 ![alt text](images_all/day_06_vintage.png)
 
+## Day 7: 10 minute map (GeoLibre)
+
+![alt text](images_all/day_07_10_min_map.png)
+
 
 
 
