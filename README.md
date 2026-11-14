@@ -33,7 +33,7 @@
 ![alt text](images_all/day_08_utopia.png)
 
 ## Day 12: Power (Python)
-![alt text](images_all/day_10_power.png)
+![alt text](images_all/day_12_power.png)
 
 
 
