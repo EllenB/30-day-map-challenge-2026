@@ -35,6 +35,9 @@
 ## Day 12: Power (Python)
 ![alt text](images_all/day_12_power.png)
 
+## Day 13: Interactions (Python)
+![alt text](images_all/day_13_interaction.png)
+
 
 
 
