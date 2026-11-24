@@ -38,7 +38,11 @@
 ## Day 13: Interactions (Python)
 ![alt text](images_all/day_13_interaction.png)
 
+## Day 21: OpenStreetMap (Python)
+![alt text](images_all/day_21_OSM.png)
 
+## Day 22: Projections (Python)
+![alt text](images_all/day_22_projection.png)
 
 
 
