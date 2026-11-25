@@ -47,6 +47,9 @@
 ## Day 24: Network (QGIS)
 ![alt text](images_all/day_24_network.png)
 
+## Day 24: Is this a map? (Python)
+![alt text](images_all/day_25_is_this_a_map.png)
+
 
 
 
