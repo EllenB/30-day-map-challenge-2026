@@ -44,7 +44,8 @@
 ## Day 22: Projections (Python)
 ![alt text](images_all/day_22_projection.png)
 
-
+## Day 24: Network (QGIS)
+![alt text](images_all/day_24_network.png)
 
 
 
