@@ -54,7 +54,7 @@
 ![alt text](images_all/day_25_is_this_a_map.png)
 
 ## Day 26: Water (QGIS)
-![alt text](images_all/day_water.png)
+![alt text](images_all/day_26_water.png)
 
 
 
