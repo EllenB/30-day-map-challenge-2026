@@ -32,6 +32,10 @@
 
 ![alt text](images_all/day_08_utopia.png)
 
+## Day 9: Urban/rural (Python)
+
+![alt text](images_all/day_09_urban_rural.png)
+
 ## Day 12: Power (Python)
 ![alt text](images_all/day_12_power.png)
 
